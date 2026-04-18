@@ -9,9 +9,9 @@
 | Dataset ID | `899296` |
 | Location | Memphis |
 | Category | Restaurants |
-| Full dataset size | 302 records |
-| Free sample size | 29 records (9.6%) |
-| Last export | 2026-04-07T23:07:51.108960+00:00 |
+| Full dataset size | 291 records |
+| Free sample size | 29 records (9.97%) |
+| Last export | 2026-04-15T04:48:12.242147+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-memphis-tennessee-us-sample-899296/releases/download/sample-latest/beamstation_899296_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
