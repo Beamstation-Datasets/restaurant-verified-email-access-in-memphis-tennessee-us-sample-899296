@@ -1,12 +1,12 @@
 {
-  "export_job_id": "cfd72b02-95c3-4a91-a55b-a487e6c71ac6",
+  "export_job_id": "55503ac1-75fb-4991-b774-645f4c3c08f0",
   "id_short": 899296,
-  "published_at": "2026-04-18T20:01:23Z",
+  "published_at": "2026-04-23T07:14:41Z",
   "repo_name": "restaurant-verified-email-access-in-memphis-tennessee-us-sample-899296",
   "sample_asset_name": "beamstation_899296_restaurants-us-tn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/899296/beamstation_899296_restaurants-us-tn_SAMPLE_DIST.csv",
-  "sample_records": 29,
-  "sample_sha256": "d4bd68a481cb3817cd7139ea718bbcb58c39099b09791e10ec1e5fc5a024fb91",
-  "sample_size_bytes": 133313,
-  "total_records": 291
+  "sample_records": 17,
+  "sample_sha256": "8ccf824e6e8dfa5ae33fd048b9fdcba3f20b5daa700b89bea96e8d95fa04658f",
+  "sample_size_bytes": 83865,
+  "total_records": 174
 }
